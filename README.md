@@ -1,3 +1,6 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/alveshatewa/Mini_Projecto_Cep)
+![GitHub License](https://img.shields.io/github/license/alveshatewa/Mini_Projecto_Cep)
+
 <h1> Desafio de Projcto/ Modelando o Iphone com funcões de chamada, Música e internet</h1>
 <hr>
 <p> Este repositório apresenta a modelagem básica das principais funções do iphone
